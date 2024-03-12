@@ -43,7 +43,7 @@ int main()
   Totsks=skskalk+skspm+sksand+sksbind+sksbing+skskim+sksfis+sksag;
   cout<< " Total sks semester 1 = ";cout<<Totsks<<endl;
 
-  IP=(Totkalk+Totpengm+Totandt+Totbind+Totbind+Totbing+Totkim+Totfis+Totag)/Totsks;
+  IP=(Totkalk+Totpengm+Totandt+Totbind+Totbing+Totkim+Totfis+Totag)/Totsks;
   cout<< " IP semester 1 = ";cout<<IP<<endl;
 
 }
